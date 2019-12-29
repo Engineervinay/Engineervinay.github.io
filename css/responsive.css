@@ -43,4 +43,16 @@
      text-align: center;
    }
 
+  .cursor-dot { 
+
+ background-color:#FFFFFF;
+
 }
+
+ .cursor-dot-outline { 
+
+  background-color: #FFFFFF;
+
+ }
+}
+
