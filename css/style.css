@@ -177,3 +177,11 @@
  .header{
    margin-bottom:5rem;
  }
+
+
+.cursor-dot { 
+ background-color:#0000;
+}
+ .cursor-dot-outline { 
+  background-color: #0000;
+ }
